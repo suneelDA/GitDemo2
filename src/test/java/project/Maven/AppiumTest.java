@@ -11,6 +11,8 @@ public class AppiumTest {
 		System.out.println("appAndroid");
 		//new 
 		System.out.println("aaa");
+		//extra
+		System.out.println("bbb");
 	}
 	
 	@Test
@@ -18,6 +20,8 @@ public class AppiumTest {
 	{
 		System.out.println("IOSapps");
 		System.out.println("qqq");
+		//extra
+		System.out.println("ccc");
 	}
 
 
